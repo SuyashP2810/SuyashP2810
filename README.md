@@ -93,44 +93,17 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-
-🏆 <b>National Finalist – Smart India Hackathon 2025</b>
-
-<br><br>
-
-🥇 <b>Winner – NeuroAvatar Hackathon, Technofest 2026</b>
-
-<br><br>
-
-🥉 <b>3rd Place – HackNova Hackathon</b>
-
-<br><br>
-
-💻 <b>300+ Data Structures & Algorithms Problems Solved</b>
-
-</p>
-
----
-
-## 👥 Leadership & Activities
-
-### 🏆 Smart India Hackathon 2025
-
-Collaborated with team members to develop and deliver a functional solution through effective team coordination, rapid prototyping, and efficient task execution within the given timeline.
-
-### 💻 ACM Web Development Team
-
-Contributed to designing web development rounds and technical questions and conducted web development sessions to help students strengthen their practical development skills.
+* 🏆 **National Finalist – Smart India Hackathon 2025**
+* 🥇 **Winner – NeuroAvatar Hackathon, Technofest 2026**
+* 🥉 **3rd Place – HackNova Hackathon**
+* 💻 **Solved 300+ Data Structures & Algorithms Problems**
 
 ---
 
 ## 🎓 Education
 
 **JSPM's Rajarshi Shahu College of Engineering, Pune**
-
 B.Tech in Computer Engineering | 2023–2027
-
 **CGPA: 9.30**
 
 ---
