@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Suyash Pawar</h1>
 
 <h3 align="center">Computer Engineering Student | Full Stack Developer | Java & C++ Problem Solver</h3>
@@ -14,8 +15,8 @@
   <a href="https://www.linkedin.com/in/suyash-pawar-065b12289/">
     <img src="https://img.shields.io/badge/LinkedIn-Suyash%20Pawar-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/Suyash234/">
-    <img src="https://img.shields.io/badge/LeetCode-Suyash234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Suyash_234/">
+    <img src="https://img.shields.io/badge/LeetCode-Suyash__234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -138,8 +139,8 @@ B.Tech in Computer Engineering | 2023–2027
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/Suyash234/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Suyash_234/">
+<img src="https://img.shields.io/badge/LeetCode-Suyash__234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </p>
@@ -153,3 +154,4 @@ B.Tech in Computer Engineering | 2023–2027
 <p align="center">
   <b>Code • Learn • Build • Repeat 🚀</b>
 </p>
+```
