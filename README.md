@@ -91,43 +91,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 CreatorExchange
-
-**React.js • Node.js • Express.js • PostgreSQL • Clerk • Inngest • ImageKit**
-
-A full-stack PERN marketplace platform designed for secure buying and selling of social media profiles.
-
-**Highlights:**
-
-* 🔐 Implemented authentication and **Role-Based Access Control**
-* 💳 Added subscription billing using **Clerk**
-* 📧 Built automated email notifications
-* 📦 Implemented order management workflows
-* ⚙️ Used **Inngest** for background workflows
-* 🗄️ Used **Neon PostgreSQL** for scalable database management
-* 🖼️ Used **ImageKit** for optimized media storage and delivery
-
----
-
-### 📄 BEACON
-
-**React.js • Node.js • Express.js • Supabase**
-
-A centralized platform for accessing and analyzing verified government policy documents.
-
-**Highlights:**
-
-* 🔎 Implemented intelligent document search
-* 📚 Centralized verified government policy documents
-* 🔐 Implemented Role-Based Access Control
-* 🌐 Added multilingual support
-* 🏛️ Designed workflows for ministries, universities, and public users
-* 📊 Focused on reliable and structured policy information retrieval
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -146,47 +109,6 @@ A centralized platform for accessing and analyzing verified government policy do
 
 💻 <b>300+ Data Structures & Algorithms Problems Solved</b>
 
-</p>
-
----
-
-## 🧠 DSA & Problem Solving
-
-I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
-
-### Areas I'm Working On
-
-```text
-Data Structures
-├── Arrays
-├── Strings
-├── Linked Lists
-├── Stack & Queue
-├── Trees
-├── Graphs
-└── Hashing
-
-Algorithms
-├── Searching
-├── Sorting
-├── Recursion
-├── Backtracking
-├── Greedy
-├── Dynamic Programming
-└── Graph Algorithms
-
-Core Java
-├── OOP
-├── Collections
-├── Exception Handling
-├── JVM / JDK / JRE
-└── Multithreading
-```
-
-<p align="center">
-  <a href="https://leetcode.com/u/Suyash234/">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 ---
