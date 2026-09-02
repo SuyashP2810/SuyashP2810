@@ -23,17 +23,17 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Engineering student at **JSPM's Rajarshi Shahu College of Engineering, Pune**
-* 📊 Current CGPA: **9.30**
-* 💻 Full Stack Developer passionate about building responsive and scalable web applications
-* 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS and Problem Solving**
-* ☕ Problem solver with **Java and C++**
-* 🌐 Experienced with **React.js, Node.js, Express.js and REST APIs**
-* 🗄️ Working with **SQL, PostgreSQL, MySQL and MongoDB**
-* 🏆 **National Finalist – Smart India Hackathon 2025**
-* 🥇 **Winner – NeuroAvatar Hackathon 2026**
-* 🥉 **3rd Place – HackNova Hackathon**
-* 💡 Solved **300+ DSA problems** on platforms such as LeetCode
+- 🎓 B.Tech Computer Engineering student at **JSPM's Rajarshi Shahu College of Engineering, Pune**
+- 📊 Current CGPA: **9.30**
+- 💻 Full Stack Developer passionate about building responsive and scalable web applications
+- 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS and Problem Solving**
+- ☕ Problem solver with **Java and C++**
+- 🌐 Experienced with **React.js, Node.js, Express.js and REST APIs**
+- 🗄️ Working with **SQL, PostgreSQL, MySQL and MongoDB**
+- 🏆 **National Finalist – Smart India Hackathon 2025**
+- 🥇 **Winner – NeuroAvatar Hackathon 2026**
+- 🥉 **3rd Place – HackNova Hackathon**
+- 💡 Solved **300+ DSA problems** on LeetCode
 
 ---
 
@@ -93,42 +93,32 @@
 
 ## 🏆 Achievements
 
-* 🏆 **National Finalist – Smart India Hackathon 2025**
-* 🥇 **Winner – NeuroAvatar Hackathon, Technofest 2026**
-* 🥉 **3rd Place – HackNova Hackathon**
-* 💻 **Solved 300+ Data Structures & Algorithms Problems**
+- 🏆 **National Finalist – Smart India Hackathon 2025**
+- 🥇 **Winner – NeuroAvatar Hackathon, Technofest 2026**
+- 🥉 **3rd Place – HackNova Hackathon**
+- 💻 **Solved 300+ Data Structures & Algorithms Problems**
 
 ---
 
 ## 🎓 Education
 
 **JSPM's Rajarshi Shahu College of Engineering, Pune**
+
 B.Tech in Computer Engineering | 2023–2027
+
 **CGPA: 9.30**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashP2810&show_icons=true&theme=tokyonight&hide_border=true" alt="Suyash's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashP2810&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 💻 Become highly proficient in **Java**
-* 🧠 Strengthen **Data Structures & Algorithms**
-* 🌐 Build more **Full Stack applications**
-* 🗄️ Master **SQL and Database concepts**
-* 🚀 Build scalable and production-ready projects
-* 🏆 Participate in more hackathons
-* 💼 Prepare for Software Engineering opportunities
+- 💻 Become highly proficient in **Java**
+- 🧠 Strengthen **Data Structures & Algorithms**
+- 🌐 Build more **Full Stack applications**
+- 🗄️ Master **SQL and Database concepts**
+- 🚀 Build scalable and production-ready applications
+- 🏆 Participate in more hackathons
+- 💼 Prepare for Software Engineering opportunities
 
 ---
 
